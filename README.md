@@ -2,4 +2,4 @@
 
 <h2> Ekran Görüntüsü </h2>
 
-![](ekran.gif)
+![](VID_20231119_233915.gif)
